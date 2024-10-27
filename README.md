@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=barameer.visitor-badge&format=true)
 
 # 💫 About Me:
 
