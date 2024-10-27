@@ -1,10 +1,21 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=barameer.visitor-badge&format=true"/>
 <br/>
-<h1 align="center"><a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=9DBDFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Baramee+Rujipatanapong.;I+am+a+Software+Developer.;Crafting+efficient+applications.;Let's+innovate+together!" alt="Typing SVG" /></a></h1>
+<h1 align="center">💻<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=9DBDFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Baramee+Rujipatanapong.;I+am+a+Software+Developer.;Crafting+efficient+applications.;Let's+innovate+together!" alt="Typing SVG" /></a>💻</h1>
 
 ---
 
-# 💫 About Me:
+<h1 style="background: linear-gradient(to right, #FFB3BA, #FFDFBA, #FFFFBA, #BAFFC9, #BAE1FF); -webkit-background-clip: text; color: transparent; font-weight: bold; animation: gradient 5s ease infinite;">About me</h1>
+
+<style>
+@keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+h1 {
+    background-size: 200% 200%;
+}
+</style>
 
 Greetings! I am Baramee Rujipatanapong, a software developer with a fervent passion for the art of crafting digital masterpieces. Specializing in the realms of .NET and Vue.js, I delight in the alchemy of transforming abstract concepts into tangible, impactful applications that captivate and serve.
 
