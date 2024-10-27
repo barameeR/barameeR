@@ -1,8 +1,12 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=barameer.visitor-badge&format=true)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=barameer.visitor-badge&format=true"/>
+<br/>
+<h1 align="center"><a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=9DBDFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Baramee+Rujipatanapong.;I+am+a+Software+Developer.;Crafting+efficient+applications.;Let's+innovate+together!" alt="Typing SVG" /></a></h1>
 
 # 💫 About Me:
 
-Hello! I'm a dedicated software developer with a knack for designing efficient and user-friendly applications. With 1.5 years of experience primarily in .NET and Vue.js, I enjoy turning ideas into tangible digital solutions. I have a keen interest in modern frameworks and cloud services, including React and AWS, which keeps me excited about the evolving landscape of technology.
+Greetings! I am Baramee Rujipatanapong, a software developer with a fervent passion for the art of crafting digital masterpieces. Specializing in the realms of .NET and Vue.js, I delight in the alchemy of transforming abstract concepts into tangible, impactful applications that captivate and serve.
+
+Endlessly curious and perpetually evolving, I immerse myself in the exploration of contemporary frameworks and cloud technologies, ever ready to embrace the exhilarating challenges of our swiftly advancing digital epoch. My professional journey is guided by the pursuit of elegance in design and excellence in execution.
 
 ## 🌐 Socials:
 
