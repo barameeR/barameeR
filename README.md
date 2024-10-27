@@ -20,16 +20,22 @@ Endlessly curious and perpetually evolving, I immerse myself in the exploration 
 
 ---
 
+# 📊 GitHub Stats:
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=barameer&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=barameer&theme=one_dark_pro&hide_border=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barameer&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
 </div>
 
+---
+
 # 📉 My Contributions:
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/barameer/barameer/output/github-contribution-grid-snake-dark.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/barameer/barameer/output/github-contribution-grid-snake-dark.svg"/>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=barameer&icon=0&color=13)](https://visitcount.itsvg.in)
+<div align="right"><a  href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=barameer&label=Profile%20Views&color=9&icon=5&pretty=true" />
+</a></div>
