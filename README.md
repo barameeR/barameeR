@@ -1,10 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=barameer.visitor-badge&format=true"/>
 <br/>
-<h1 align="center">💻<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=9DBDFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Baramee+Rujipatanapong.;I+am+a+Software+Developer.;Crafting+efficient+applications.;Let's+innovate+together!" alt="Typing SVG" /></a>💻</h1>
+<h1 align="center"><a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=9DBDFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Baramee+Rujipatanapong.;I+am+a+Software+Developer.;Crafting+efficient+applications.;Let's+innovate+together!" alt="Typing SVG" /></a></h1>
 
 ---
-
-<h1 style="background: linear-gradient(to right, #FFB3BA, #FFDFBA, #FFFFBA, #BAFFC9, #BAE1FF); -webkit-background-clip: text; color: transparent;">About me</h1>
 
 # 💫 About Me:
 
@@ -28,7 +26,7 @@ Endlessly curious and perpetually evolving, I immerse myself in the exploration 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barameer&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
 </div>
 
-# 📊 My Contributions:
+# 📉 My Contributions:
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/barameer/barameer/output/github-contribution-grid-snake-dark.svg" />
 
