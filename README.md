@@ -20,15 +20,14 @@ Endlessly curious and perpetually evolving, I immerse myself in the exploration 
 
 ---
 
-# 📊 GitHub Stats:
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=barameer&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=barameer&theme=one_dark_pro&hide_border=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barameer&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
 </div>
 
-<h3>📊My Contributsion</h3>
+# 📊 My Contributions:
+
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/barameer/barameer/output/github-contribution-grid-snake-dark.svg" />
 
 ---
