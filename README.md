@@ -4,18 +4,9 @@
 
 ---
 
-<h1 style="background: linear-gradient(to right, #FFB3BA, #FFDFBA, #FFFFBA, #BAFFC9, #BAE1FF); -webkit-background-clip: text; color: transparent; font-weight: bold; animation: gradient 5s ease infinite;">About me</h1>
+<h1 style="background: linear-gradient(to right, #FFB3BA, #FFDFBA, #FFFFBA, #BAFFC9, #BAE1FF); -webkit-background-clip: text; color: transparent;">About me</h1>
 
-<style>
-@keyframes gradient {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-}
-h1 {
-    background-size: 200% 200%;
-}
-</style>
+# 💫 About Me:
 
 Greetings! I am Baramee Rujipatanapong, a software developer with a fervent passion for the art of crafting digital masterpieces. Specializing in the realms of .NET and Vue.js, I delight in the alchemy of transforming abstract concepts into tangible, impactful applications that captivate and serve.
 
