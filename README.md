@@ -24,6 +24,12 @@ Endlessly curious and perpetually evolving, I immerse myself in the exploration 
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=barameer&icon=0&color=13)](https://visitcount.itsvg.in)
+<div align="center">
+  <h2> My Contributions</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/barameer/barameer/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=barameer&icon=0&color=13)](https://visitcount.itsvg.in)
